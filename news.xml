@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/" xmlns:snf="http://www.smartnews.be/snf">
     <channel>
-        <atom:link rel="self" type="application/rss+xml" href="https://example.com/feed/01gcfbnt6yyg3n">
-        </atom:link>
         <description>Example Publisher news feed</description>
         <title>ExamplePublisher</title>
-        <link>https://www.example.com</link>
+        <link>https://www.lapresse.ca</link>
         <item>
             <title>Pep Guardiola takes dig at Man Utd spending following Carabao Cup win</title>
             <link>https://www.lapresse.ca/societe/animaux/2023-06-27/les-cosmetiques-se-passeront-des-animaux.php</link>
@@ -13,8 +11,9 @@
             <description>Pep Guardiola takes dig at Man Utd spending following Carabao Cup win.</description>
             <pubDate>Thu, 28 Jun 2023 10:45:11 +0000</pubDate>
             <media:content url="https://mobile-img.lpcdn.ca/v2/924x/r3996/e8447b79e75b3b5b9e218fa8ecbd35f6.jpg">
-            <media:description>Guardiola made some interesting comments</media:description>
-            <media:credit>Martin Rose/GettyImages</media:credit></media:content>
+                <media:description>Guardiola made some interesting comments</media:description>
+                <media:credit>Martin Rose/GettyImages</media:credit>
+            </media:content>
             <content:encoded>
                 <![CDATA[<p><strong>There was a lot of Premier League action to enjoy throughout February,
                 with plenty of brilliant goals scored and plenty of entertaining games played out during the
